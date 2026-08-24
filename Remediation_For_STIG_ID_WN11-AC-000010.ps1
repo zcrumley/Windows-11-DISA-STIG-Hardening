@@ -4,15 +4,15 @@
 
 .NOTES
     Author          : Zachary Crumley
-    LinkedIn        : 
-    GitHub          : 
+    LinkedIn        : linkedin.com/in/zachary-crumley/
+    GitHub          : github.com/zcrumley
     Date Created    : 2026-08-21
     Last Modified   : 2026-08-21
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN11-AC-000010
-    Documentation   : https://stigaview.com/products/win11/v2r7/WN11-AC-000010/
+    Documentation   : https://stigaview.com/products/win11/v2r8/WN11-AC-000010/
 
 .TESTED ON
     Date(s) Tested  : 

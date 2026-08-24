@@ -4,8 +4,8 @@
 
 .NOTES
     Author          : Zachary Crumley
-    LinkedIn        : 
-    GitHub          : 
+    LinkedIn        : linkedin.com/in/zachary-crumley/
+    GitHub          : github.com/zcrumley
     Date Created    : 2026-08-21
     Last Modified   : 2026-08-21
     Version         : 1.0
